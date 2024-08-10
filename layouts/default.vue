@@ -27,7 +27,7 @@ export default {
       miniVariant: false,
       right: false,
       rightDrawer: false,
-      title: 'PHP勉強会@東京'
+      title: '若手エンジニアふんわりLT Day！'
     }
   }
 }
